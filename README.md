@@ -6,4 +6,4 @@ Simulation and design files for a piston less pump system. Intention is to fly i
 * decide on one chamber or two chamber
 * preliminary design requirements capture
 * MATLAB sim of one chamber
-* CAD of one chamber design
+* CAD of one chamber design(later)
