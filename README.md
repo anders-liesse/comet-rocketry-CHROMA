@@ -1,9 +1,9 @@
 # comet-rocketry-pump
-Simulation and design files for a piston less pump system. Intention is to fly in the 2023-24 school year for Comet Rocketry going to spaceport or NASA comps..
+Simulation and design files for a hybrid rocket motor. COMET ROCKETRY PROJECT CHROMA
 
 # To do:
-* complete README
-* decide on one chamber or two chamber
-* preliminary design requirements capture
-* MATLAB sim of one chamber
-* CAD of one chamber design(later)
+* check box folder for detailed updates
+* CAD sketchup
+* igniter testing
+* testing setup build
+* fuel grain production
